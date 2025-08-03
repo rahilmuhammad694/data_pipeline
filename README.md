@@ -1,2 +1,2 @@
 # data_pipeline
-transforming raw data
+transforming raw data using ETL with MySql
